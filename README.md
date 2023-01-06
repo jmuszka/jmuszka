@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+### I am a programmer.
 <!--
 **apemanjosh67/apemanjosh67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,5 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![](https://raw.githubusercontent.com/apemanjosh67/proffile-summary-cards/master/profile-summary-card-output/solarized/1-repos-per-language.svg)
