@@ -1,5 +1,6 @@
 ### Hi there 👋
-### I am a programmer, studying Computer Science at the University of Western Ontario (2026)
+### I am a programmer
+### Studying Computer Science at the University of Western Ontario (2026)
 <!--
 **apemanjosh67/apemanjosh67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
