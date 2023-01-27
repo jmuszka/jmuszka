@@ -2,6 +2,7 @@
 ### I am a programmer
 ### Studying Computer Science at the University of Western Ontario (2026)
 ### Java, Python, C++, HTML, CSS, JavaScript, Linux
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=apemanjosh67&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 <!--
 **apemanjosh67/apemanjosh67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
