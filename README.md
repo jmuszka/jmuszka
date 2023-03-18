@@ -2,6 +2,10 @@
 ### I am a programmer
 ### Studying Computer Science at the University of Western Ontario (2026)
 ### Java, Kotlin, Python, C++, HTML, CSS, JavaScript, Linux
+
+
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **apemanjosh67/apemanjosh67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
