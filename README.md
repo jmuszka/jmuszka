@@ -4,7 +4,7 @@
 ### Java, Kotlin, Python, C++, HTML, CSS, JavaScript, Linux
 
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=apemanjosh67&theme=dracula)](https://github.com/apemanjosh67/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=apemanjosh67&theme=dracula&show_icons=true)](https://github.com/apemanjosh67/github-readme-stats)
 
 <!--
 **apemanjosh67/apemanjosh67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
