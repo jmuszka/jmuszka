@@ -60,4 +60,4 @@ Studying Computer Science at the University of Western Ontario (2026)
 <!-- STATS -->
 <div align="center">
   
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=apemanjosh67&theme=gruvbox&show_icons=true&layout=compact)(https://github.com/apemanjosh67/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=apemanjosh67&theme=gruvbox&show_icons=true&layout=compact)](https://github.com/apemanjosh67/github-readme-stats)
