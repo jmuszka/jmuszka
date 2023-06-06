@@ -4,7 +4,9 @@
 # Hi there 👋, I'm Josh
 I am interested in web development, Android apps, machine learning, Linux, Arduinos, and FOSS
 <br><br>
-Studying Computer Science at the University of Western Ontario (2026)
+Studying Computer Science at the University of Western Ontario (2026) <br><br>
+  [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=apemanjosh67&theme=gruvbox&show_icons=true&layout=compact)](https://github.com/apemanjosh67/github-readme-stats)
+  
 <hr>
 
 </div>
@@ -55,9 +57,3 @@ Studying Computer Science at the University of Western Ontario (2026)
   Email — <b>joshmuszka67@gmail.com</b> <br><br>
   LinkedIn — <b><a href="https://www.linkedin.com/in/jmuszka/" target="blank">linkedin.com/in/jmuszka</a></b>
 </div>
-<hr>
-
-<!-- STATS -->
-<div align="center">
-  
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=apemanjosh67&theme=gruvbox&show_icons=true&layout=compact)](https://github.com/apemanjosh67/github-readme-stats)
