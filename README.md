@@ -54,6 +54,6 @@ Studying Computer Science at the University of Western Ontario (2026) <br><br>
   
   ### Contact me
   Website — <b><a href="http://jmuszka.com" target="blank">jmuszka.com</a></b> <br><br>
-  Email — <b>joshmuszka67@gmail.com</b> <br><br>
+  Email — <b>josh@jmuszka.com</b> <br><br>
   LinkedIn — <b><a href="https://www.linkedin.com/in/jmuszka/" target="blank">linkedin.com/in/jmuszka</a></b>
 </div>
