@@ -31,6 +31,7 @@ Studying Computer Science at the University of Western Ontario (2026) <br><br>
    <a href="https://git-scm.com/" target="_blank" rel="noreferrer" title="Git"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
        <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer" title="Pandas"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
          <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer" title="Scikit-Learn"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
+         <a href="https://www.electronjs.org/" target="_blank" rel="noreferrer" title="ElectronJS"> <img src="https://pbs.twimg.com/profile_images/730268134460903424/8WOgriUU_400x400.jpg" alt="electronjs" width="40" height="40"/> </a> 
 
 ### Coding environments
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer" title="Visual Studio Code"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="visual studio code" width="40" height="40"/></a>
