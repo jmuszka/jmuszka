@@ -23,6 +23,7 @@ Studying Computer Science at the University of Western Ontario (2026) <br><br>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" title="TypeScript"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer" title="C++"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
     <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer" title="C#"> <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="csharp" width="40" height="40"/> </a> 
+    <a href="https://www.php.net/" target="_blank" rel="norefferer" title="PHP"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogodix.com%2Flogo%2F1625680.png&f=1&nofb=1&ipt=622b92c0a5b77abba8f451b70d620ce1981bcdbafffb1ca29d0a0c5dcde96185&ipo=images" alt="php" width="40" height="40"/> </a>
 
 ### Technologies & frameworks
    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" title="HTML"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
