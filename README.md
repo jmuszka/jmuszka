@@ -56,10 +56,12 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jmuszka&show_icons=true&locale=en&theme=gruvbox" alt="ovi" />
 </div>
 
+<!--
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=jmuszka&show_icons=true&theme=radical"/>
 </div>
+-->
