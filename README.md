@@ -57,7 +57,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jmuszka&show_icons=true&locale=en&theme=gruvbox" alt="ovi" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jmuszka&show_icons=true&locale=en&theme=gruvbox&hide=astro" alt="ovi" />
 </div>
 
 <!--
