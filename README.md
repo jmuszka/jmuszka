@@ -21,7 +21,7 @@
 ###
 
 <p align="left">I'm a Computer Science & Software Engineering student from the University of Western Ontario<br><br>- 🔭 I’m working part-time as a web developer<br>- 📚 I'm currently learning cryptography and machine learning<br>- 💻 Recently I've been working on an etymology app and a full-stack app for my university's 3D Printing Club<br>- ⚡ In my free time I like to explore new technologies, read, play video games, and go on hikes</p>
-
+Josh
 ###
 
 <h3 align="left">🛠 My Favourite Languages and Tools</h3>
@@ -47,7 +47,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux logo"  title="Linux"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" alt="AWS logo"  title="AWS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wJoshordmark.svg" height="40" alt="AWS logo"  title="AWS"/>
 </div>
 
 ###
@@ -57,7 +57,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jmuszka&show_icons=true&locale=en&theme=gruvbox&hide=astro" alt="ovi" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jmuszka&show_icons=true&locale=en&theme=gruvbox&hide=kotlin,astro,javascript,html,css" alt="ovi" />
 </div>
 
 <!--
