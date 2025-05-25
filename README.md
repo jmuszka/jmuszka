@@ -1,67 +1,31 @@
-<div align="center">
-  <kbd><img height="200" src="https://www.jmuszka.com/_astro/hikeedit4.CEQ55N-B_Z5rEAa.jpg"  border-radius="10px"/></kbd>
-</div>
+# Hi, I'm Josh 👋
 
-###
+### 👩‍💻  About Me
 
-<!--
-<div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" height="50" alt="LinkedIn logo" title="Connect on LinkedIn!" />
-</div>
--->
+I'm a computer science student and full-stack developer who enjoys building clean, reliable systems that solve real problems. I currently work at Gruv Media and the Canadian Severe Storms Lab, and contribute to 3DWestern at Western University.
 
-###
+My interests span software engineering, open data and open source software, self-hosting, linguistics, and geography. I especially enjoy creating useful tools that make knowledge more accessible or enhance how people interact with information.
 
-<h1 align="center">Hi, I'm Josh 👋 </h1> 
+Right now, I’m working on:
 
-###
+- A web application for visualizing English etymology through interactive maps 🗺️
+- Scalable data-aggregation infrastructure and visualization for climate and severe weather research ⛈️
+- A streamlined 3D-printing workflow system for students 🔧
 
-<h3 align="left">👩‍💻  About Me</h3>
+Check out my website: [www.jmuszka.com](https://www.jmuszka.com)
 
-###
+### 🛠 My Favourite Languages and Tools
+<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind" alt="Tailwind" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/opengl/opengl-original.svg" title="OpenGL" alt="OpenGL" height="40"/>&nbsp;
 
-<p align="left">I'm a Computer Science & Software Engineering student from the University of Western Ontario<br><br>- 🔭 I’m working part-time as a web developer<br>- 📚 I'm currently learning cryptography and machine learning<br>- 💻 Recently I've been working on an etymology app and a full-stack app for my university's 3D Printing Club<br>- ⚡ In my free time I like to explore new technologies, read, play video games, and go on hikes</p>
-Josh
-###
+### 🔥 My Stats
 
-<h3 align="left">🛠 My Favourite Languages and Tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" alt="Python logo"  title="Python"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C logo"    title="C"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" height="40" alt="Java logo"  title="Java"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript logo"  title="TypeScript"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" alt="React logo"  title="ReactJS"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="Django logo"  title="Django"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original-wordmark.svg" height="40" alt="Pytorch logo" title="PyTorch" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" height="40" alt="MySQL logo"  title="MySQL"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux logo"  title="Linux"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wJoshordmark.svg" height="40" alt="AWS logo"  title="AWS"/>
-</div>
-
-###
-
-<h3 align="left">🔥 My Stats</h3>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jmuszka&show_icons=true&locale=en&theme=gruvbox&hide=kotlin,astro,javascript,html,css" alt="ovi" />
-</div>
-
-<!--
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=jmuszka&show_icons=true&theme=radical"/>
-</div>
--->
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jmuszka&show_icons=true&locale=en&theme=gruvbox&hide=kotlin,astro,javascript,html,css" alt="ovi" />
